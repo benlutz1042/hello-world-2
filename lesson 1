@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>My Script</title>
+    <script type="text/javascript">
+        alert("hello world!")
+        //String: "hello world!"
+        //Number: 3
+        //Boolean: true or false      
+    </script>
